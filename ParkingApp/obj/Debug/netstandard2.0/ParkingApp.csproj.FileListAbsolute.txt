@@ -1,0 +1,11 @@
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\bin\Debug\netstandard2.0\ParkingApp.deps.json
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\bin\Debug\netstandard2.0\ParkingApp.dll
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\bin\Debug\netstandard2.0\ParkingApp.pdb
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.csprojAssemblyReference.cache
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.csproj.CoreCompileInputs.cache
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.AssemblyInfoInputs.cache
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.AssemblyInfo.cs
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.dll
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.pdb
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\obj\Debug\netstandard2.0\ParkingApp.dll.mdb
+C:\Users\Donut\source\repos\ParkingApp\ParkingApp\bin\Debug\netstandard2.0\ParkingApp.dll.mdb
